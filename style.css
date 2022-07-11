@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+nav {
+    color: rgb(135, 86, 86);
+    font-size: 46px;
+    text-align: center;
+}
+
+
+#search-section {
+    background-color: rgb(72, 137, 137);
+}
+
+
+.city {
+    border: none;
+}
+
+.card-city {
+    border: none;
+}
+
+
+.cbforecast {
+    margin: 20px;
+}
+
+
+.main-container {
+    padding-bottom: 20px;
+}
+
+.row-blue {
+    background-color: rgb(86, 133, 95);
+}
