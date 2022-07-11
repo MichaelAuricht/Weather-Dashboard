@@ -2,22 +2,24 @@
 
 ## Description
 
+A simple app which uses an external weather tracking API to populate the upcoming weather conditions for the next 5 days.
+
 ### Functionality
 
-### Development Process
-
-### Installation & Usage Instructions
+Type in the city you wish to observe the coming weekly weather.
 
 ### Technologies Used
 
-### Challenges Encountered
+JS, CSS & HTML.
 
 ### Directions for Future Development
 
+Add favourites, user location functionality.
+
 ## Screenshot
 
-![ThisIsAnImage](Link)
+![Screenshot](weather-dashboard.jpg)
 
 ## Links
 
-[LinkName](Link)
+[Link](https://michaelauricht.github.io/Weather-Dashboard/)
